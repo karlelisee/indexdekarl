@@ -1,0 +1,51 @@
+.about{
+    margin-left: 30px;
+    background-image: url(gradient.png);
+    color: white;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.about h1 {
+    text-align: start;
+}
+.about p {
+    margin-top: 100px;
+    text-align: end;
+}
+.texte00{
+    display: inline-flex;
+    align-items: center;
+    gap: 142px;
+    margin-top: 30px;
+}
+.texte00 h1{
+    margin-left: 90px;
+}
+ .texte00 p{
+    margin-right: 90px;
+ }
+ .about2{
+    margin-left: 30px;
+    background-color: #23252A;
+    color: white;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.about2 h1 {
+    text-align: start;
+}
+.about2 p {
+    margin-top: 100px;
+    text-align: end;
+}
+.texte001{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.texte001 h1{
+    margin-top: 50px;
+}

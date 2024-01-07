@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css2?family=Raleway:wght@100;800&display=swap);
+
+body {
+    font-family: Raleway;
+}
+
+img {
+    inline-size: 150px;
+    block-size: 67.5px;
+    margin-inline-start: 5px;
+}
+
+h1 {
+    margin-inline-start: 40px;
+}
+
+p {
+    margin: 10px;
+    margin-inline-start: 45px;
+}
+
+
+.rectangle1 {
+    border: none;
+    background-color: rgb(234, 231, 231);
+    inline-size: 40px;
+    block-size: 40px;
+    margin-inline-start: 45px;
+    margin-block-start: 35px;
+    border-start-start-radius: 15px;
+    border-start-end-radius: 15px;
+}
+
+.picture {
+    inline-size: 20px;
+    block-size: 20px;
+    margin-block-start: 10px;
+    margin-inline-start: 11px;
+}
+
+.rectangle2 {
+    border: solid;
+    border-color: rgb(231, 231, 231);
+    background: none;
+    inline-size: 110px;
+    block-size: 34.5px;
+    margin-inline-start: 85px;
+    margin-block-start: -40px;
+}
+
+.text2 {
+    font-size: 12px;
+    margin-inline-start: 25px;
+    margin-block-start: 4px;
+    color: rgb(0, 0, 0);
+}
+.rectangle3{
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    background-color: rgb(29, 115, 254);
+    inline-size: 110px;
+    block-size: 40px;
+    margin-inline-start: 190px ;
+    margin-block-start: -45px;
+
+}
+h3{
+    font-size: 15px;
+    margin-inline-start: 30px;
+    margin-block-start: 5px;
+    color: white;
+}
+.text3{
+    font-size: 12px;
+    margin-inline-start: 25px;
+    margin-block-start: 4px;
+    color: rgb(255, 255, 255);
+}
